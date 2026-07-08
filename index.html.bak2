@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Portfolio – Talitha Maritza Aydin Maulana</title>
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
 
@@ -30,7 +30,7 @@
 <section class="hero" id="about">
   <div class="hero-particles" aria-hidden="true"></div>
   <div class="hero-content">
-    <img class="hero-photo" src="assets/images/hero-photo.jpeg" alt="Talitha Maritza">
+    <img class="hero-photo" src="../assets/images/hero-photo.jpeg" alt="Talitha Maritza">
     <div class="hero-text">
       <div class="hero-tag">Project Engineer</div>
       <div class="hero-name">Talitha Maritza<br>Aydin Maulana</div>
@@ -85,14 +85,14 @@
           <li>Contributed to cross-departmental process improvements that increased project visibility and reduced coordination time.</li>
         </ul>
         <div class="gallery">
-          <img src="assets/images/image_7.png" alt="Esco team with client">
-          <img src="assets/images/image_2.png" alt="Esco production team with isolator units">
-          <img src="assets/images/image_8.png" alt="Esco production floor">
-          <img src="assets/images/image_6.png" alt="Esco team group photo">
-          <img src="assets/images/image_2.png" alt="Esco team with visitors">
-          <img src="assets/images/image_3.png" alt="Esco team with Isolator unit">
-          <img src="assets/images/image_4.png" alt="Esco welding area team">
-          <img src="assets/images/image_5.png" alt="Esco bending area team">
+          <img src="../assets/images/image_7.png" alt="Esco team with client">
+          <img src="../assets/images/image_2.png" alt="Esco production team with isolator units">
+          <img src="../assets/images/image_8.png" alt="Esco production floor">
+          <img src="../assets/images/image_6.png" alt="Esco team group photo">
+          <img src="../assets/images/image_2.png" alt="Esco team with visitors">
+          <img src="../assets/images/image_3.png" alt="Esco team with Isolator unit">
+          <img src="../assets/images/image_4.png" alt="Esco welding area team">
+          <img src="../assets/images/image_5.png" alt="Esco bending area team">
         </div>
       </div>
     </div>
@@ -115,9 +115,9 @@
           <li>Developed skills in Technical Writing, Project Manager Assistance, Analytical Problem-Solving, and Collaboration.</li>
         </ul>
         <div class="gallery">
-          <img src="assets/images/image_10.png" alt="Molca certificate">
-          <img src="assets/images/image_11.png" alt="Molca team photo">
-          <img src="assets/images/image_12.png" alt="Molca competency skills">
+          <img src="../assets/images/image_10.png" alt="Molca certificate">
+          <img src="../assets/images/image_11.png" alt="Molca team photo">
+          <img src="../assets/images/image_12.png" alt="Molca competency skills">
         </div>
       </div>
     </div>
@@ -141,10 +141,10 @@
           <li>Studied the components and integration of Unmanned Aerial Vehicle (UAV) systems.</li>
         </ul>
         <div class="gallery">
-          <img src="assets/images/image_13.png" alt="NPC Lab certificate">
-          <img src="assets/images/image_14.png" alt="NPC Lab team photo">
-          <img src="assets/images/image_15.png" alt="NPC Lab CNC work">
-          <img src="assets/images/image_16.png" alt="NPC Lab USV construction">
+          <img src="../assets/images/image_13.png" alt="NPC Lab certificate">
+          <img src="../assets/images/image_14.png" alt="NPC Lab team photo">
+          <img src="../assets/images/image_15.png" alt="NPC Lab CNC work">
+          <img src="../assets/images/image_16.png" alt="NPC Lab USV construction">
         </div>
       </div>
     </div>
@@ -167,9 +167,9 @@
           <li>Prepared the accompanying user guide and technical manual for the tool and application.</li>
         </ul>
         <div class="gallery">
-          <img src="assets/images/image_17.png" alt="Tim Java Energi Semesta di lapangan">
-          <img src="assets/images/image_18.png" alt="Manual Book Real Time Temperature Monitoring">
-          <img src="assets/images/image_19.png" alt="Panel monitoring JES">
+          <img src="../assets/images/image_17.png" alt="Tim Java Energi Semesta di lapangan">
+          <img src="../assets/images/image_18.png" alt="Manual Book Real Time Temperature Monitoring">
+          <img src="../assets/images/image_19.png" alt="Panel monitoring JES">
         </div>
       </div>
     </div>
@@ -303,10 +303,10 @@
         <div class="edu-date">Sep 2020 – Jul 2024 &nbsp;·&nbsp; GPA 3.81 / 4.00</div>
         <div class="edu-note">Activities: Instrumentation & Control Engineering Student Association (HIMA) · Islamic Spiritual Organization of the Vocational Faculty</div>
         <div class="gallery" style="margin-top:12px;">
-          <img src="assets/images/image_25.png" alt="Verifikasi peserta goodie bag">
-          <img src="assets/images/image_26.png" alt="Tim volunteer lapangan">
-          <img src="assets/images/image_27.png" alt="Foto bersama tim volunteer">
-          <img src="assets/images/image_28.png" alt="Foto bersama tim volunteer">
+          <img src="../assets/images/image_25.png" alt="Verifikasi peserta goodie bag">
+          <img src="../assets/images/image_26.png" alt="Tim volunteer lapangan">
+          <img src="../assets/images/image_27.png" alt="Foto bersama tim volunteer">
+          <img src="../assets/images/image_28.png" alt="Foto bersama tim volunteer">
         </div>
       </div>
     </div>
